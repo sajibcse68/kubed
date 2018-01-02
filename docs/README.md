@@ -6,7 +6,7 @@ menu:
     identifier: kubed-overview
     name: Overview
     parent: welcome
-    weight: 20
+    weight: -1
 product_name: kubed
 menu_name: product_kubed_0.3.1
 section_menu_id: welcome

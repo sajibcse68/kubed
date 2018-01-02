@@ -3,13 +3,13 @@ title: API Server
 description: API Server
 menu:
   product_kubed_0.3.1:
-    identifier: tutorials-apiserver
+    identifier: guides-apiserver
     name: API Server
-    parent: tutorials
+    parent: guides
     weight: 10
 product_name: kubed
 menu_name: product_kubed_0.3.1
-section_menu_id: tutorials
+section_menu_id: guides
 ---
 
 > New to Kubed? Please start [here](/docs/guides/README.md).

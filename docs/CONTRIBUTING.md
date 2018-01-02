@@ -1,3 +1,20 @@
+---
+title: Contributing | Kubed
+description: Contributing
+menu:
+  product_kubed_0.3.1:
+    identifier: contributing-kubed
+    name: Contributing
+    parent: welcome
+    weight: 35
+product_name: kubed
+menu_name: product_kubed_0.3.1
+section_menu_id: welcome
+url: /products/kubed/0.3.1/welcome/contributing/
+aliases:
+  - /products/kubed/0.3.1/CONTRIBUTING/
+---
+
 # Contribution Guidelines
 
 AppsCode projects are [Apache 2.0 licensed](LICENSE) and accept contributions via

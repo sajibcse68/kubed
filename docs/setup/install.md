@@ -5,14 +5,13 @@ menu:
   product_kubed_0.3.1:
     identifier: kubed-install
     name: Install
-    parent: welcome
-    weight: 25
+    parent: setup
+    weight: 10
 product_name: kubed
 menu_name: product_kubed_0.3.1
-section_menu_id: welcome
-url: /products/kubed/0.3.1/welcome/install/
+section_menu_id: setup
 aliases:
-  - /products/kubed/0.3.1/install/
+  - /products/kubed/0.3.1/setup/
 ---
 
 > New to Kubed? Please start [here](/docs/guides/README.md).

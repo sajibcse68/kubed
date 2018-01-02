@@ -5,6 +5,7 @@ menu:
   product_kubed_0.3.1:
     identifier: developer-guide
     name: Developer Guide
+    parent: setup
     weight: 40
 menu_name: product_kubed_0.3.1
 ---

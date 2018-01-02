@@ -9,10 +9,7 @@ menu:
     weight: 15
 product_name: kubed
 menu_name: product_kubed_0.3.1
-section_menu_id: developer-guide
-url: /products/kubed/0.3.1/developer-guide/
-aliases:
-  - /products/kubed/0.3.1/developer-guide/README/
+section_menu_id: setup
 ---
 
 ## Development Guide

@@ -1,23 +1,23 @@
 ---
 title: Overview
-description: Overview of Tutorials
+description: Overview of guides
 menu:
   product_kubed_0.3.1:
-    identifier: tutorials-overview
+    identifier: guides-overview
     name: Overview
-    parent: tutorials
-    weight: 5
+    parent: guides
+    weight: -1
 product_name: kubed
 menu_name: product_kubed_0.3.1
-section_menu_id: tutorials
+section_menu_id: guides
 url: /products/kubed/0.3.1/guides/
 aliases:
   - /products/kubed/0.3.1/guides/README/
 ---
 
-# Tutorials
+# Guides
 
-This section contains tutorials on how to use Kubed. Please visit the links below to learn more:
+This section contains guides on how to use Kubed. Please visit the links below to learn more:
 
  - [Cluster Snapshots](/docs/guides/cluster-snapshot.md): This tutorial will show you how to use Kubed to take periodic snapshots of a Kubernetes cluster objects.
 

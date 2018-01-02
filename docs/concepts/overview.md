@@ -2,13 +2,13 @@
 title: Concepts | Kubed
 description: Overview of Concepts
 menu:
-  product_kubed_5.0.0:
+  product_kubed_0.3.1:
     identifier: overview-concepts
     name: Overview
     parent: concepts
     weight: 10
 product_name: kubed
-menu_name: product_kubed_5.0.0
+menu_name: product_kubed_0.3.1
 section_menu_id: concepts
 ---
 

@@ -5,14 +5,11 @@ menu:
   product_kubed_0.3.1:
     identifier: kubed-uninstall
     name: Uninstall
-    parent: welcome
-    weight: 30
+    parent: setup
+    weight: 20
 product_name: kubed
 menu_name: product_kubed_0.3.1
-section_menu_id: welcome
-url: /products/kubed/0.3.1/welcome/uninstall/
-aliases:
-  - /products/kubed/0.3.1/uninstall/
+section_menu_id: setup
 ---
 
 > New to Kubed? Please start [here](/docs/guides/README.md).
